@@ -1,0 +1,4 @@
+## External Archives
+- **Zenodo DOI:** [Insert DOI Link Here]
+- **IPFS Hash:** [Insert Content Hash Here]
+- **Open Science Framework:** [Link to OSF Project]
